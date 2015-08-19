@@ -1,0 +1,6 @@
+name: VipJoinAlert
+main: ru.Plasticable.VipJoinAlert.Main
+description: Vip Join Alert
+version: 1.5
+author: Plasticable
+depend: [PermissionsEx]

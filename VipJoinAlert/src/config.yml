@@ -1,0 +1,5 @@
+message: '+ {PREFIX}{NICK}'
+only_own: false
+groups: 
+  'vip': 'NOTE_PIANO'
+  'premium': 'NOTE_BASS_GUITAR'
